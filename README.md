@@ -13,7 +13,7 @@
 
 ## 💻 Tecnologias e Ferramentas:
 - **Linguagens:** Java, Python, Kotlin
-- **Front-end:** HTML, CSS
+- **Front-end:** HTML, CSS, Wordpress
 - **Banco de dados:** SQL, Oracle, MySQL
 - **Ferramentas:** Git, GitHub, VS Code
 
