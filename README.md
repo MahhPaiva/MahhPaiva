@@ -3,7 +3,7 @@
 <p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 ❤️ Apaixonada por tecnologia e dados <br>
-🚀 Buscando minha primeira oportunidade na área de tecnologia
+🚀 Em minha primeira experiência na área de tecnologia
 </p>
 
 <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" alt="gato digitando" width="200px">
